@@ -36,12 +36,18 @@ triangle_base = 10
 triangle_height = 5
 triangle_area = triangle_base * triangle_height / 2
 
+rectangle_base = 10
+rectangle_height = 5
+rectangle_area = rectangle_base * rectangle_height
+
 print("With scripts, ")
 print("It's import to print() everything the user should see.")
 print("We could concatenate text like before, but there's a better way.")
 print()
 print(f"Given base={triangle_base} and height={triangle_height},")
 print(f"the area of a triangle is {triangle_area}")
+print(f"Given base={rectangle_base} and height={rectangle_height},")
+print(f"the area of a triangle is {rectangle_area}")
 print()
 print("Python provides formatted strings called f-strings")
 print("for combining text and values. ")
