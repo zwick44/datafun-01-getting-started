@@ -1,0 +1,212 @@
+
+(base) C:\Users\zzwickel>ipython
+Python 3.9.15 (main, Nov 24 2022, 14:39:17) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.31.1 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]:
+Do you really want to exit ([y]/n)? y
+
+(base) C:\Users\zzwickel>ipython RollDieDynamic.py 600 1
+[TerminalIPythonApp] WARNING | File 'RollDieDynamic.py' doesn't exist
+
+(base) C:\Users\zzwickel>ipython
+Python 3.9.15 (main, Nov 24 2022, 14:39:17) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.31.1 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: x = 7
+
+In [2]: y = 3
+
+In [3]: x + y
+Out[3]: 10
+
+In [4]: total = x + y
+
+In [5]: total
+Out[5]: 10
+
+In [6]: type(x)
+Out[6]: int
+
+In [7]: type(10.23565)
+Out[7]: float
+
+In [8]: 3**11
+Out[8]: 177147
+
+In [9]: 9 ** (1/2)
+Out[9]: 3.0
+
+In [10]: 9 ** .5
+Out[10]: 3.0
+
+In [11]: 7//4
+Out[11]: 1
+
+In [12]: 8//2.2
+Out[12]: 3.0
+
+In [13]: 8/2.2
+Out[13]: 3.6363636363636362
+
+In [14]: 123/0
+---------------------------------------------------------------------------
+ZeroDivisionError                         Traceback (most recent call last)
+<ipython-input-14-b2ce00d5adf0> in <module>
+----> 1 123/0
+
+ZeroDivisionError: division by zero
+
+In [15]: z + x
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-15-271df97979bc> in <module>
+----> 1 z + x
+
+NameError: name 'z' is not defined
+
+In [16]: x + x
+Out[16]: 14
+
+In [17]: 18 % 4
+Out[17]: 2
+
+In [18]: 4/2
+Out[18]: 2.0
+
+In [19]: print('welcome to python')
+welcome to python
+
+In [20]: print("welcome to python")
+welcome to python
+
+In [21]: print("welcome\nto\n\n python")
+welcome
+to
+
+ python
+
+In [22]: print('this is a longer \
+    ...: string')
+this is a longer string
+
+In [23]: print('Sum is: ', 7 + 3)
+Sum is:  10
+
+In [24]:
+
+In [24]: print('Sum is: ',7 + 3)
+Sum is:  10
+
+In [25]: input("What's your name?: )
+  File "<ipython-input-25-c8fd71a9c475>", line 1
+    input("What's your name?: )
+                                ^
+SyntaxError: EOL while scanning string literal
+
+
+In [26]: input("What's your name?: ")
+What's your name?: Zac
+Out[26]: 'Zac'
+
+In [27]: print(name)
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-27-9ba126b17b03> in <module>
+----> 1 print(name)
+
+NameError: name 'name' is not defined
+
+In [28]: name = input("What's your name?: ")
+What's your name?: Zac
+
+In [29]: print(name)
+Zac
+
+In [30]: name = input("What's your name?: ")
+What's your name?: Seth
+
+In [31]: print(name)
+Seth
+
+In [32]: name = input("What's your name?: ")
+What's your name?: 'Zac'
+
+In [33]: print(name)
+'Zac'
+
+In [34]:
+
+In [34]:
+
+In [34]: first = input(10)
+10
+
+In [35]: second = input("enter second number: ")
+enter second number: 15
+
+In [36]: print(first + second)
+15
+
+In [37]: x = '6.2'
+
+In [38]: print(x)
+6.2
+
+In [39]: x + 2
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-39-2c7a9192c558> in <module>
+----> 1 x + 2
+
+TypeError: can only concatenate str (not "int") to str
+
+In [40]: float(x)
+Out[40]: 6.2
+
+In [41]: x * 3.3
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-41-1a9b85a4f890> in <module>
+----> 1 x * 3.3
+
+TypeError: can't multiply sequence by non-int of type 'float'
+
+In [42]: float(x) + 3.3
+Out[42]: 9.5
+
+In [43]: print(x)
+6.2
+
+In [44]: float(x) * 3.3
+Out[44]: 20.46
+
+In [45]: x = input(float("Enter first number: "))
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+<ipython-input-45-6ae6c8abc623> in <module>
+----> 1 x = input(float("Enter first number: "))
+
+ValueError: could not convert string to float: 'Enter first number: '
+
+In [46]: x = float(input("Enter first number: "))
+Enter first number: 10
+
+In [47]: y = float(input("Enter second number: "))
+Enter second number: 15
+
+In [48]: print(x + y)
+25.0
+
+In [49]: print(x * y)
+150.0
+
+In [50]: print(x / y)
+0.6666666666666666
+
+In [51]: print(x // y)
+0.0
+
+In [52]:
