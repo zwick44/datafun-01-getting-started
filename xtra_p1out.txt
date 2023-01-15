@@ -1,0 +1,106 @@
+PS C:\Users\atozz\Documents\datafun-01-getting-started> & C:/Users/atozz/AppData/Local/Programs/Python/Python310/python.exe c:/Users/atozz/Documents/datafun-01-getting-started/xtra_p1.py
+
+Hello, I'm Zac, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+What is your choice?: wolf
+
+You said wolf.
+I said wolf.
+
+PS C:\Users\atozz\Documents\datafun-01-getting-started> & C:/Users/atozz/AppData/Local/Programs/Python/Python310/python.exe c:/Users/atozz/Documents/datafun-01-getting-started/xtra_p1.py
+
+Hello, I'm Zac, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+What is your choice?: wolf
+
+You said wolf.
+I said snake.
+
+PS C:\Users\atozz\Documents\datafun-01-getting-started> & C:/Users/atozz/AppData/Local/Programs/Python/Python310/python.exe c:/Users/atozz/Documents/datafun-01-getting-started/xtra_p1.py
+
+Hello, I'm Zac, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+What is your choice?: wolf
+
+You said wolf.
+I said wolf.
+PS C:\Users\atozz\Documents\datafun-01-getting-started> & C:/Users/atozz/AppData/Local/Programs/Python/Python310/python.exe c:/Users/atozz/Documents/datafun-01-getting-started/xtra_p1.py
+
+Hello, I'm Zac, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+What is your choice?: wolf
+
+You said wolf.
+I said eagle.
+
+PS C:\Users\atozz\Documents\datafun-01-getting-started> & C:/Users/atozz/AppData/Local/Programs/Python/Python310/python.exe c:/Users/atozz/Documents/datafun-01-getting-started/xtra_p1.py
+
+Hello, I'm Zac, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+What is your choice?: snake
+
+You said snake.
+I said wolf.
+PS C:\Users\atozz\Documents\datafun-01-getting-started> & C:/Users/atozz/AppData/Local/Programs/Python/Python310/python.exe c:/Users/atozz/Documents/datafun-01-getting-started/xtra_p1.py
+
+Hello, I'm Zac, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+What is your choice?: eagle
+
+You said eagle.
+I said wolf.
+
+You lost!
+You lost!PS C:\Users\atozz\Documents\datafun-01-getting-started> & C:/Users/atozz/AppData/Local/Programs/Python/Python310/python.exe c:/Users/atozz/Documents/datafun-01-getting-started/xtra_p1.py
+
+Hello, I'm Zac, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+What is your choice?: asd
+Choice not valid, pick again: wolf
+
+You said wolf.
+I said snake.
+
+You lost!
