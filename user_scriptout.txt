@@ -1,14 +1,14 @@
 # Paste the output from a sample run here.
-Enter first game total score: 144
-Enter second game total score: 165
-Enter third game total score: 189
-Enter your current per game average: 165
-The sum of the three games is: 498.0
-The average of the three games is: 166.0
-The product of the three games is: 4490640.0
-The smallest of the three games is: 144.0
-The largest of the three games is: 189.0
-The range of the three games is: 144.0 - 189.0
-Your first game was below your average of 165.0
-Your second game was equal to your average of 165.0
-Your third game was above your average of 165.0
+Enter first game total score: 145
+Enter second game total score: 155
+Enter third game total score: 165
+Enter your current per game average: 155
+The sum of the three games is: 465
+The average of the three games is: 155.0
+The product of the three games is: 3708375.0
+The smallest of the three games is: 145
+The largest of the three games is: 165
+The range of the three games is: 145 - 165
+Your first game was below your average of 155.0
+Your second game was equal to your average of 155.0
+Your third game was above your average of 155.0

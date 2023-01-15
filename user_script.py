@@ -68,13 +68,13 @@ largest = (max(game1, game2, game3))
 
 # Output the newly calulated variable values
 
-print("The sum of the three games is:", sum)
+print("The sum of the three games is:", int(sum))
 print("The average of the three games is:", round(avg,2))
 print("The product of the three games is:", product)
 #print(product_alt)
-print("The smallest of the three games is:", smallest)
-print("The largest of the three games is:", largest)
-print("The range of the three games is:", smallest, '-', largest)
+print("The smallest of the three games is:", int(smallest))
+print("The largest of the three games is:", int(largest))
+print("The range of the three games is:", int(smallest), '-', int(largest))
 
 # Run a comparision of each game and how it relates to the bowlers current average
 
