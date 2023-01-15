@@ -48,12 +48,16 @@ show_goog()
 
 import math
 
+# Gather input from user for three games as well as their current average
+
 game1 = (float(input("Enter first game total score: ")))
 game2 = (float(input("Enter second game total score: ")))
 game3 = (float(input("Enter third game total score: ")))
 curavg = (float(input("Enter your current per game average: ")))
 
 total = (game1, game2, game3)
+
+# Run the various calculations to assign values to the variables
 
 sum = sum(total)
 avg = (sum / 3)
@@ -62,6 +66,8 @@ product_alt = (math.prod(total))
 smallest = (min(game1, game2, game3))
 largest = (max(game1, game2, game3))
 
+# Output the newly calulated variable values
+
 print("The sum of the three games is:", sum)
 print("The average of the three games is:", round(avg,2))
 print("The product of the three games is:", product)
@@ -69,6 +75,8 @@ print("The product of the three games is:", product)
 print("The smallest of the three games is:", smallest)
 print("The largest of the three games is:", largest)
 print("The range of the three games is:", smallest, '-', largest)
+
+# Run a comparision of each game and how it relates to the bowlers current average
 
 if game1 > curavg:
     print("Your first game was above your average of", curavg)

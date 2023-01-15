@@ -5,14 +5,14 @@
 
  Welcome!
 
- It's 2023-01-12 at 04:31 PM
+ It's 2023-01-15 at 02:42 PM
 
  This file is running on:    nt Windows 10
  
- The Python version is:      3.9.15
+ The Python version is:      3.10.0
  
  The Python interpreter is at: 
- C:\Users\atozz\anaconda3\python.exe
+ C:\Users\atozz\AppData\Local\Programs\Python\Python310\python.exe
 
  The active environment should be either conda OR pip (one should be None):
 
@@ -21,7 +21,7 @@
  
  The path to the active virtual environment is:
 
- C:\Users\atozz\anaconda3
+ C:\Users\atozz\AppData\Local\Programs\Python\Python310
  
  The Current Working Directory (CWD) where this command was launched is:
 

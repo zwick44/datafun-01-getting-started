@@ -26,6 +26,10 @@ print()
 # enter wolf, eagle, or snake.
 # Hint: use the input() function
 
+# User input to choose an animal.  If the 
+# value does not match wolf, eagle or snake
+# the user will be asked to reenter their choice.
+
 user_choice = input("What is your choice?: ")
 
 if user_choice != (["wolf", "eagle", "snake"]):
