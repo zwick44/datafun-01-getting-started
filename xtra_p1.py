@@ -32,7 +32,7 @@ print()
 
 user_choice = input("What is your choice?: ")
 
-if user_choice != (["wolf", "eagle", "snake"]):
+while user_choice not in (["wolf", "eagle", "snake"]):
     user_choice = input("Choice not valid, pick again: ")
   
 # Now the bot will pick one
@@ -53,21 +53,21 @@ if user_choice == "wolf" and buddy_choice == "eagle":
     print("You won!")
 if user_choice == "wolf" and buddy_choice == "snake":
     print("You lost!")
-if user_choice == buddy_choice:
+if user_choice == "wolf" and buddy_choice == "wolf":
     print("We tied!")
 
 if user_choice == "eagle" and buddy_choice == "snake":
     print("You won!")
 if user_choice == "eagle" and buddy_choice == "wolf":
     print("You lost!")
-if user_choice == buddy_choice:
+if user_choice == "eagle" and buddy_choice == "eagle":
     print("We tied!")
 
 if user_choice == "snake" and buddy_choice == "wolf":
     print("You won!")
 if user_choice == "snake" and buddy_choice == "eagle":
     print("You lost!")
-if user_choice == buddy_choice:
+if user_choice == "snake" and buddy_choice == "snake":
     print("We tied!")
 
 
